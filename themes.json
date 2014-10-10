@@ -2,6 +2,6 @@
 	{
 		"name" : "Amelia (Bootswatch)",
 		"author" : "Thomas Park",
-		"less" : "/less/amelia.less"
+		"less" : "http://pingendo.github.io/bootstrap-custom/less/amelia.less"
 	}
 ]
