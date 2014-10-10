@@ -1,2 +1,2 @@
-A collection of custom Bootstrap LESS themes
+Bootstrap LESS themes x Pingendo
 ============================================
