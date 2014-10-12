@@ -3,5 +3,10 @@
 		"name" : "Amelia (Bootswatch)",
 		"author" : "Thomas Park",
 		"less" : "http://pingendo.github.io/bootstrap-custom/less/amelia.less"
+	},
+	{
+		"name" : "Cerulean (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/less/cerulean.less"
 	}
 ]
