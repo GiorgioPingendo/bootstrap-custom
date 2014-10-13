@@ -8,5 +8,10 @@
 		"name" : "Cerulean (Bootswatch)",
 		"author" : "Thomas Park",
 		"less" : "http://pingendo.github.io/bootstrap-custom/less/cerulean.less"
+	},
+	{
+		"name" : "Cosmo (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/less/cosmo.less"
 	}
 ]
