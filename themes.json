@@ -13,5 +13,15 @@
 		"name" : "Cosmo (Bootswatch)",
 		"author" : "Thomas Park",
 		"less" : "http://pingendo.github.io/bootstrap-custom/less/cosmo.less"
+	},
+	{
+		"name" : "Cyborg (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/less/cyborg.less"
+	},
+	{
+		"name" : "Darkly (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/less/darkly.less"
 	}
 ]
