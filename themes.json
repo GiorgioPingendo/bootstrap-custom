@@ -40,11 +40,6 @@
 		"less" : "http://pingendo.github.io/bootstrap-custom/lumen/lumen.less"
 	},
 	{
-		"name" : "Darkly (Bootswatch)",
-		"author" : "Thomas Park",
-		"less" : "http://pingendo.github.io/bootstrap-custom/darkly/darkly.less"
-	},
-	{
 		"name" : "Paper (Bootswatch)",
 		"author" : "Thomas Park",
 		"less" : "http://pingendo.github.io/bootstrap-custom/paper/paper.less"
