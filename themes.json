@@ -2,26 +2,91 @@
 	{
 		"name" : "Amelia (Bootswatch)",
 		"author" : "Thomas Park",
-		"less" : "http://pingendo.github.io/bootstrap-custom/less/amelia.less"
+		"less" : "http://pingendo.github.io/bootstrap-custom/amelia/amelia.less"
 	},
 	{
 		"name" : "Cerulean (Bootswatch)",
 		"author" : "Thomas Park",
-		"less" : "http://pingendo.github.io/bootstrap-custom/less/cerulean.less"
+		"less" : "http://pingendo.github.io/bootstrap-custom/cerulean/cerulean.less"
 	},
 	{
 		"name" : "Cosmo (Bootswatch)",
 		"author" : "Thomas Park",
-		"less" : "http://pingendo.github.io/bootstrap-custom/less/cosmo.less"
+		"less" : "http://pingendo.github.io/bootstrap-custom/cosmo/cosmo.less"
 	},
 	{
 		"name" : "Cyborg (Bootswatch)",
 		"author" : "Thomas Park",
-		"less" : "http://pingendo.github.io/bootstrap-custom/less/cyborg.less"
+		"less" : "http://pingendo.github.io/bootstrap-custom/cyborg/cyborg.less"
 	},
 	{
 		"name" : "Darkly (Bootswatch)",
 		"author" : "Thomas Park",
-		"less" : "http://pingendo.github.io/bootstrap-custom/less/darkly.less"
+		"less" : "http://pingendo.github.io/bootstrap-custom/darkly/darkly.less"
+	},
+	{
+		"name" : "Flatly (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/flatly/flatly.less"
+	},
+	{
+		"name" : "Journal (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/journal/journal.less"
+	},
+	{
+		"name" : "Lumen (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/lumen/lumen.less"
+	},
+	{
+		"name" : "Darkly (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/darkly/darkly.less"
+	},
+	{
+		"name" : "Paper (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/paper/paper.less"
+	},
+	{
+		"name" : "Readable (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/readable/readable.less"
+	},
+	{
+		"name" : "Sandstone (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/sandstone/sandstone.less"
+	},
+	{
+		"name" : "Simplex (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/simplex/simplex.less"
+	},
+	{
+		"name" : "Slate (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/slate/slate.less"
+	},
+	{
+		"name" : "Spacelab (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/spacelab/spacelab.less"
+	},
+	{
+		"name" : "Superhero (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/superhero/superhero.less"
+	},
+	{
+		"name" : "United (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/united/united.less"
+	},
+	{
+		"name" : "Yeti (Bootswatch)",
+		"author" : "Thomas Park",
+		"less" : "http://pingendo.github.io/bootstrap-custom/yeti/yeti.less"
 	}
 ]
