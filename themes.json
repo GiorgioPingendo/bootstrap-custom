@@ -25,6 +25,11 @@
 		"less" : "http://pingendo.github.io/bootstrap-custom/darkly/darkly.less"
 	},
 	{
+		"name" "Default",
+		"author" : "Bootstrap",
+		"less" : "http://pingendo.github.io/bootstrap-custom/default/bootstrap-3.2.0.less"
+	},
+	{
 		"name" : "Flatly (Bootswatch)",
 		"author" : "Thomas Park",
 		"less" : "http://pingendo.github.io/bootstrap-custom/flatly/flatly.less"
